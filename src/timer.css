@@ -1,0 +1,27 @@
+.times{
+    font-size: 100px;
+    margin-top: 50px;
+ 
+}
+.time{
+    display:flex;
+    justify-content:center ;
+    font-size:30px;
+    color: grey;
+}
+.hour{
+    margin-right: 10px;
+}
+.second{
+    margin-left: 30px;
+}
+.minute{
+    margin-left: 30px;
+}
+button{
+    width:10%;
+    height:40px;
+    border-radius:5px;
+    background-color:rgba(73, 72, 72, 0.151); 
+    margin-top: 30px;
+}
